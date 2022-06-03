@@ -3,7 +3,7 @@
 I'm Hari om a Full Stack Web Developer.
 
 [![Twitter Badge](https://img.shields.io/badge/-Hariom-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/harixom) 
-[![Linkedin Badge](https://img.shields.io/badge/-Hariom-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-om-singh333/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Hariom-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Harixomxsingh/) 
  [![Mail Badge](https://img.shields.io/badge/-Hariom-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:www.hariom03.@gmail.com)
 
 <!-- TODO: Add last video link -->
